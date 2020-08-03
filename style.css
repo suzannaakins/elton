@@ -1,0 +1,24 @@
+th {
+    font-size: large
+}
+table {
+    border: tomato 6px solid;
+    border-collapse: collapse;
+}
+th, td {
+    border: tomato 1px solid;
+    padding: 15px
+}
+.center {
+    text-align: center;
+}
+.centerimage {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+}
+body {
+    background-color: lightgoldenrodyellow;
+    color: tomato
+}
